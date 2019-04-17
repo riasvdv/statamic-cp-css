@@ -1,0 +1,4 @@
+fields:
+  css:
+    display: ' '
+    type: cp_css
