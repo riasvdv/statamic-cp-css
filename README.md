@@ -8,6 +8,8 @@
 
 Add custom CSS to your control panel.
 
+![Screenshot](./resources/assets/img/screenshot.png)
+
 ## Installation
 
 To install the plugin, download the plugin and place it in your `site/addons` folder.
