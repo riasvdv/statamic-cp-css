@@ -22,7 +22,7 @@ class CpCssListener extends Listener
 
     public function addJs()
     {
-        return $this->js->tag('codemirror.js') . $this->js->tag('cm-css.js');
+        return $this->js->tag('codemirror.js').$this->js->tag('cm-css.js');
     }
 
     public function addConfigCSS()
