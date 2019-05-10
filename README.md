@@ -1,7 +1,7 @@
 ![Icon](icon.svg)
 
-[![Latest Version](https://img.shields.io/github/release/rias500/statamic-cp-css.svg?style=flat-square)](https://github.com/rias500/statamic-cp-css/releases)
-[![Quality Score](https://img.shields.io/scrutinizer/g/rias500/statamic-cp-css.svg?style=flat-square)](https://scrutinizer-ci.com/g/rias500/statamic-cp-css)
+[![Latest Version](https://img.shields.io/github/release/riasvdv/statamic-cp-css.svg?style=flat-square)](https://github.com/riasvdv/statamic-cp-css/releases)
+[![Quality Score](https://img.shields.io/scrutinizer/g/riasvdv/statamic-cp-css.svg?style=flat-square)](https://scrutinizer-ci.com/g/riasvdv/statamic-cp-css)
 [![StyleCI](https://styleci.io/repos/181874114/shield)](https://styleci.io/repos/181874114)
 
 # Control Panel CSS addon for Statamic
