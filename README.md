@@ -10,7 +10,7 @@ Add custom CSS to your control panel.
 
 ![Screenshot](./resources/assets/img/screenshot.png)
 
-*Note*: You do not need an addon to do this, see [https://docs.statamic.com/control-panel#customizing-the-stylesheet](https://docs.statamic.com/control-panel#customizing-the-stylesheet), but sometimes it's just easier to do it in the Control Panel
+*Note*: You do not need an addon to do this, see [https://statamic.dev/extending/control-panel#adding-css-and-js-assets](https://statamic.dev/extending/control-panel#adding-css-and-js-assets), but sometimes it's just easier to do it in the Control Panel
 
 ## Installation
 
